@@ -23,8 +23,7 @@ Miscellaneous/
     disable-sleep-hibernation.bat - Disable hibernation/sleep and power-saving features.
     Get-Installed-Roles.ps1 - Print installed server roles.
     PowerShell-Code-Signing.ps1 - Sign PowerShell scripts with a code signing certificate.
-
-VPN Profiles/
-    Generate-VPN-Profile-Script.ps1 - Generate a user VPN profile creation script.
-    Generate-VPN-Profile-Script-Shared.ps1 - Generate a share VPN profile creation script.
+    VPN Profiles/
+        Generate-VPN-Profile-Script.ps1 - Generate a user VPN profile creation script.
+        Generate-VPN-Profile-Script-Shared.ps1 - Generate a share VPN profile creation script.
 ```
